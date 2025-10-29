@@ -1,4 +1,5 @@
-About the ProjectThis project is an Arduino-based smart solar energy management system. It provides automatic energy management by monitoring the solar panel, battery, and energy consumption in real time.
+ABOUT THE PROJECT
+This project is an Arduino-based smart solar energy management system. It provides automatic energy management by monitoring the solar panel, battery, and energy consumption in real time.
 SYSTEM FEATURESEnergy
 ManagementSolar Panel Monitoring: Instant voltage, current, and power measurement
 Battery Management: State of charge and charge/discharge controlSmart 
